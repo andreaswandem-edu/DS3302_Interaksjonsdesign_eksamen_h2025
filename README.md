@@ -1,6 +1,6 @@
 # Eksamen i DS3302 Interaksjonsdesign
 
-> Eksamsnesperiode: 26.9.2025 - 15.11.2025
+> Eksamensperiode: 26.9.2025 - 15.11.2025
 > 
 > Eksamensform: Gruppeeksamen
 > 
