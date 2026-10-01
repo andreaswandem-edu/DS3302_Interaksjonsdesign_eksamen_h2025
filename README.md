@@ -9,6 +9,8 @@
 ## Verktøy og teknologi
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
 ## Om prosjektet
 
 Gruppeeksamen i Interaksjonsdesign ved Høyskolen Kristiania (3. semester). Vi utviklet en interaktiv prototype i Figma med fokus på brukerbehov, universell utforming og interaksjonsprinsipper for god navigasjon og brukerflyt.
