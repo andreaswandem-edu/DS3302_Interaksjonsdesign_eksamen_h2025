@@ -15,14 +15,14 @@
 
 Gruppeeksamen i Interaksjonsdesign ved Høyskolen Kristiania (3. semester). Vi utviklet en interaktiv prototype i Figma med fokus på brukerbehov, universell utforming og interaksjonsprinsipper for god navigasjon og brukerflyt.
 
-Les mer om emnet ved Høyskolen Kristiania [**her**](https://www.kristiania.no/studieportal/fakultet-for-helse-og-teknologi/bachelorniva/ds3302/interaksjonsdesign/).
+Les mer om emnet ved Høyskolen Kristiania [**her**](https://www.kristiania.no/studieportal/fakultet-for-helse-og-teknologi/bachelorniva/ds3302/interaksjonsdesign/) <img src="https://www.kristiania.no/dist/assets/images/favicon-32x32.png?v=2" width="16" height="16" alt="Kristiania">
 
 ### Min rolle
 Jeg hadde hovedansvaret for å bygge den interaktive prototypen i Figma. Arbeidet omfattet visuell utforming, komponentstruktur og oppsett av interaksjoner, overganger og navigasjonsflyt mellom frames.
 
 ---
 
-### Sensors begrunnelse
+## Sensors begrunnelse
 
 > "Svært bra med refleksjoner rundt forfasen, og hvordan det at alle kunne fagteori fasiliterte faglige drøftinger. Svært bra også om strukturen i design prosessen deres, og hvordan denne har vært mer lineær fremfor å iterere. Øvrige refleksjoner er også ok, men det er mer interessant å høre om faglige lærdommer knyttet til prosess og metodikk enn mer personlige anekdoter om samarbeid."
 
